@@ -1,0 +1,2 @@
+45|robbery|Hamd|45|14/11/2006|Open| (Badge: 0)|
+23|robbery|xyz|45|11/05/2000|Open|abc (Badge: 678)|Bag, Room
